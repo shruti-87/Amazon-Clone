@@ -8,6 +8,7 @@ The project replicates various sections of the Amazon website, including the hea
 index.html: Contains the HTML structure of the Amazon clone, including header, hero section, featured product boxes, and footer.
 style.css: Contains the CSS styles for the entire project, defining the layout, positioning, colors, and responsiveness of elements.
 Images: Placeholder images used in the project for the featured product boxes.
+
 ## How to Use
 Clone the repository to your local machine.
 Open index.html in a web browser to view the Amazon clone.
@@ -17,7 +18,8 @@ Contributions to enhance the design or add new features are welcome! Fork this r
 
 ## Resources
 Font Awesome - Used for icons in the project.
-License
+
+## License
 This project is licensed under the MIT License.
 
 ## Acknowledgments
